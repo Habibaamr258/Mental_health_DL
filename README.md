@@ -116,7 +116,6 @@ The image preprocessing pipeline included:
 Several NLP approaches were explored, including:
 - DistilBERT
 - BiLSTM
-- TF-IDF
 - Machine Learning classifiers
 
 The best-performing NLP model was selected based on evaluation metrics.
@@ -127,7 +126,7 @@ The best-performing NLP model was selected based on evaluation metrics.
 
 Multiple deep learning architectures were tested, including:
 - EfficientNet
-- CNN-based architectures
+- Raisnet50
 - Transfer Learning techniques
 
 The image models were trained on chest X-ray datasets for disease classification.
